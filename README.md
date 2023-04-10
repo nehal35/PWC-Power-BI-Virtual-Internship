@@ -69,3 +69,5 @@ Calculating Measures >Defining KPIs >Power BI Dashboard >Insight and Actions
 # final Result
 TASK-1
 ![callcenimg](https://user-images.githubusercontent.com/108068313/230732653-a92d534b-0abd-4f18-8858-1bd8909ad2fe.gif)
+Task-3
+![divdas](https://user-images.githubusercontent.com/108068313/230880622-c0ca9228-ee0f-4655-92fa-c46fc3482786.gif)
