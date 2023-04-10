@@ -67,11 +67,11 @@ Defining KPIs >Power BI >Insights and Actions
 Calculating Measures >Defining KPIs >Power BI Dashboard >Insight and Actions
 
 # final Result
-TASK-1: https://www.novypro.com/project/pwccallcenteranalysis click on link to see dashboard
+TASK-1: https://www.novypro.com/project/pwccallcenteranalysis click on link to view dashboard
 ![callcenimg](https://user-images.githubusercontent.com/108068313/230732653-a92d534b-0abd-4f18-8858-1bd8909ad2fe.gif)
 
+Task 2:https://www.novypro.com/project/pwctelecomcustomerretention click on link to view dashboard
 
 
-
-Task-3
+Task-3 : https://www.novypro.com/project/diversityandinclusion-2 click on link to view dashboard
 ![divdas](https://user-images.githubusercontent.com/108068313/230880622-c0ca9228-ee0f-4655-92fa-c46fc3482786.gif)
