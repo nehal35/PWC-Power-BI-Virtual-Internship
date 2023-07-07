@@ -12,6 +12,15 @@ Possible KPIs include (to get you started, but not limited to):
 ## Final Result TASK-1:
 https://www.novypro.com/project/pwccallcenteranalysis **click on link to view dashboard**
 ![callcenimg](https://user-images.githubusercontent.com/108068313/230732653-a92d534b-0abd-4f18-8858-1bd8909ad2fe.gif)
+### Insights
+    1)Total Calls was higher for Yes (4,054) than No (946).
+    2)Average Calls was higher for Yes (810.80) than No (189.20)
+    3)Calls trended down, resulting in a 97.44% decrease between Saturday. Calls started trending down on Saturday, falling by 97.19% (485) in 4 hours.
+    4)Across all 7 Weekday, Calls ranged from 675 to 770.
+    5)At 42.48%, Martha had the highest CSAT Score and was 9.98% higher than Greg,
+    which had the lowest CSAT Score at 38.62%
+    6)Dan had the highest Call handle time(in sec) (295) and Jim had the highest Calls
+      Answered (536).
    
   # Task 2 : Customer Retention
 ## Here is the background information on the task
