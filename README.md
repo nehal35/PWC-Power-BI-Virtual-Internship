@@ -39,7 +39,24 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 * Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed\
   
 ## Task 2:
+![cust2023](https://github.com/nehal35/PWC-Power-BI-Virtual-Internship/assets/108068313/55cfba3d-13ef-4f83-a825-2894c9cfe113)
 https://www.novypro.com/project/pwctelecomcustomerretention **click on link to view dashboard**
+### Insights
+          1)The telecom industry has a total of 7043 customers, with a relatively even distribution of 50.48% male and 49.52% female customers. The industry'scustomer 
+            churn rate is 26.54% Analysis of churn rates by gender reveals that females have a slightly higher chum rate of 26.92% compared to males with the churn 
+            rate 26.12% ie., male churn rate is 2.8% lower than the female churn rate. Dependents and partners have a significant impact on customer retention. 
+            Customers who are dependents have a lower churn rate of 15.45%, while those who are not dependents have a higher churn rate of 32.96% Customers who have 
+            partners have lower churn rate 19.66% where as who don't have partner have higher chum rate: 32.96%. Age also plays a role in churn rates of the industry 
+            with senior citizens having a higher churn rate of 41,68% compared to young customers with a churn rate of 23.61%.
+
+          2)Customers with a month-to-month contract have a significantly higher churn rate of 42.71%, while those with one-year contract have a lower churn rate of 
+            11.27% and customers with a two-year contract have the lowest churn rate of 2.83%. In terms of customer service, churned customers had higher total number 
+            of technical tickets (2173) and a lower total number of administrative tickets (885) and the churned customers had an average monthly charge of amount 74, 
+            while retained customers had an average monthly charge of 61.
+
+         3)Customers with Fiber Optic internet service have a higher chum rate compared to those with DSL internet service. Additionally, customers who do not have 
+           any  of the additional services offered such as Online Backup. Online Security. Device Protection. Tech Support, and Streaming Movies and
+           These insights are based on the small data provided and we cannot infer any definitive conclusions
 
 # Task 3 : Diversity & Inclusion
 ## Here is the background information on the task
@@ -66,6 +83,21 @@ Your task is to do the following:
 ## Task-3 Final results:
 https://www.novypro.com/project/diversityandinclusion-2 **click on link to view dashboard**
 ![divdas](https://user-images.githubusercontent.com/108068313/230880622-c0ca9228-ee0f-4655-92fa-c46fc3482786.gif)
+
+### Insight
+       HIRING
+       1.The hiring of female employee trended up resulting in 51.33% increase between 2011 and 2020 "Except of operational department all other are having majority 
+         of male and female ratio decreased significantly at top level management post
+       2.45% of employees are from age group between 20-29 and the age groups are dominated by males
+     
+       Promotion
+       1.promotion for female employee increases from 8 in 2020 to 18 in 2021
+       2.Majority of women were promoted to senior officer position in 2020 and 2021 *The average performance rating of men and women are very close to each other The 
+       3.Average performance rating of the employees has decreased from 2.57 in Fy19 to Fy20
+    
+       Turnover
+       1.Men tend to turnover a bit than women do.
+       2.%Turnover by Women in 2020 is higher than men
 
 ##  Key Larnings
 1. Learnt about what real business data sets look like.
