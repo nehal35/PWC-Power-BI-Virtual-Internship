@@ -39,7 +39,7 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 * Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed\
   
 ## Task 2:
-[https://www.novypro.com/project/pwctelecomcustomerretention] **click on link to view dashboard**
+https://www.novypro.com/project/pwc-telecom-customer-retention-power-bi **click on link to view dashboard**
 ![cusret](https://github.com/nehal35/PWC-Power-BI-Virtual-Internship/assets/108068313/9c9ceeb5-832b-4a03-b3d0-8fcfae7c1476)
 
 ### Insights
