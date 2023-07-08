@@ -39,7 +39,7 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 * Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed\
   
 ## Task 2:
-![cust2023](https://github.com/nehal35/PWC-Power-BI-Virtual-Internship/assets/108068313/55cfba3d-13ef-4f83-a825-2894c9cfe113)
+![cusret](https://github.com/nehal35/PWC-Power-BI-Virtual-Internship/assets/108068313/9c9ceeb5-832b-4a03-b3d0-8fcfae7c1476)
 https://www.novypro.com/project/pwctelecomcustomerretention **click on link to view dashboard**
 ### Insights
           1)The telecom industry has a total of 7043 customers, with a relatively even distribution of 50.48% male and 49.52% female customers. The industry'scustomer 
