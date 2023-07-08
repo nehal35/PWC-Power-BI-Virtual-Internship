@@ -10,7 +10,7 @@ Possible KPIs include (to get you started, but not limited to):
  * Calls by time
  * Average speed of answer
 ## Final Result TASK-1:
-https://www.novypro.com/project/pwccallcenteranalysis **click on link to view dashboard**
+https://www.novypro.com/project/pwc-call-center-trend-analysis-power-bi-1 **click on link to view dashboard**
 ![callcenimg](https://user-images.githubusercontent.com/108068313/230732653-a92d534b-0abd-4f18-8858-1bd8909ad2fe.gif)
 ### Insights
     1)Total Calls was higher for Yes (4,054) than No (946).
@@ -39,8 +39,9 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 * Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed\
   
 ## Task 2:
+[https://www.novypro.com/project/pwctelecomcustomerretention] **click on link to view dashboard**
 ![cusret](https://github.com/nehal35/PWC-Power-BI-Virtual-Internship/assets/108068313/9c9ceeb5-832b-4a03-b3d0-8fcfae7c1476)
-https://www.novypro.com/project/pwctelecomcustomerretention **click on link to view dashboard**
+
 ### Insights
           1)The telecom industry has a total of 7043 customers, with a relatively even distribution of 50.48% male and 49.52% female customers. The industry'scustomer 
             churn rate is 26.54% Analysis of churn rates by gender reveals that females have a slightly higher chum rate of 26.92% compared to males with the churn 
@@ -81,7 +82,7 @@ Your task is to do the following:
  2. Write what you think some root causes of their slow progress might be 
 
 ## Task-3 Final results:
-https://www.novypro.com/project/diversityandinclusion-2 **click on link to view dashboard**
+https://www.novypro.com/project/pwc-diversity-and-inclusion-power-bi **click on link to view dashboard**
 ![divdas](https://user-images.githubusercontent.com/108068313/230880622-c0ca9228-ee0f-4655-92fa-c46fc3482786.gif)
 
 ### Insight
